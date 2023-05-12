@@ -1,4 +1,4 @@
-package spring.data;
+package com.spring.data;
 
 public class SpringData {
     public static void main(String[] args) {
